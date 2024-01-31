@@ -40,3 +40,9 @@ Take a moment to celebrate your achievement! Share your Day 1 completion on soci
 "I have completed Day 1 of the 100 Days Coding Challenge! Today, I learned about GitHub and created my GitHub account. My username is <add your yourname here>. #Day1of100dayscodingchallenge #100dayscodingchallenge #codewithaadi"
 
 **Congratulations on completing Day 1! You've taken the first step towards becoming a coding maestro. Happy coding!** 🚀💻
+
+## Follow me:
+
+- **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/)
+- **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

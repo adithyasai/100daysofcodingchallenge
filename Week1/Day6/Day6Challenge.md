@@ -42,3 +42,9 @@ Celebrate your Day 6 exploration on social media! Post on Instagram or LinkedIn,
 "I've completed Day 6 of the 100 Days Coding Challenge! Explored GitHub Copilot and set it up for faster coding. My GitHub username is <add your yourname here>. #Day6of100dayscodingchallenge #100dayscodingchallenge #codewithaadi"
 
 **Fantastic job on completing Day 6! GitHub Copilot is now your coding companion. Happy coding!** 🚀💻
+
+## Follow us:
+
+- **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavya](https://www.linkedin.com/in/bhavyasriy/)
+- **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

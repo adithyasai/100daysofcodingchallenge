@@ -60,3 +60,9 @@ Celebrate your Day 3 achievement on social media! Post on Instagram or LinkedIn,
 "I've completed Day 3 of the 100 Days Coding Challenge! Explored Git commands, cloned code from Github, and synced with my local machine. My GitHub username is <add your yourname here>. #Day3of100dayscodingchallenge #100dayscodingchallenge #codewithaadi"
 
 **Fantastic job on completing Day 3! You're on the way to mastering Git and GitHub. Happy coding!** 🚀💻
+
+## Follow us:
+
+- **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavya](https://www.linkedin.com/in/bhavyasriy/)
+- **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

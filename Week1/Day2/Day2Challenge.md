@@ -56,3 +56,9 @@ Celebrate your Day 2 achievement on social media! Post on Instagram or LinkedIn,
 "I've completed Day 2 of the 100 Days Coding Challenge! Created a GitHub repository named HelloGitHub and uploaded a file. My GitHub username is <add your yourname here>. #Day2of100dayscodingchallenge #100dayscodingchallenge #codewithaadi"
 
 **Great job on completing Day 2! You're on your way to becoming a GitHub master. Happy coding!** 🚀💻
+
+## Follow us:
+
+- **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavya](https://www.linkedin.com/in/bhavyasriy/)
+- **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

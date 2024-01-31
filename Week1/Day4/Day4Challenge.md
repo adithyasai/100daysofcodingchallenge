@@ -65,3 +65,9 @@ Celebrate your Day 4 achievement on social media! Post on Instagram or LinkedIn,
 "I've completed Day 4 of the 100 Days Coding Challenge! Learned to commit and push changes from my local machine to GitHub. My GitHub username is <add your yourname here>. #Day4of100dayscodingchallenge #100dayscodingchallenge #codewithaadi"
 
 **Fantastic job on completing Day 4! You're becoming a Git and GitHub master. Keep up the great work!** 🚀💻
+
+## Follow us:
+
+- **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavya](https://www.linkedin.com/in/bhavyasriy/)
+- **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

@@ -67,3 +67,9 @@ Celebrate your Day 5 achievement on social media! Post on Instagram or LinkedIn,
 "I've completed Day 5 of the 100 Days Coding Challenge! Explored branches and pull requests in Git. My GitHub username is <add your yourname here>. #Day5of100dayscodingchallenge #100dayscodingchallenge #codewithaadi"
 
 **Congratulations on completing Day 5! You're now a branching expert. Keep up the fantastic work!** 🚀💻
+
+## Follow us:
+
+- **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavya](https://www.linkedin.com/in/bhavyasriy/)
+- **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

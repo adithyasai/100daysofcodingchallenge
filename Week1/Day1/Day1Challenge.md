@@ -73,8 +73,8 @@ Take a moment to celebrate your achievement! Share your Day 1 completion on soci
 
 **Congratulations on completing Day 1! You've taken the first step towards becoming a coding maestro. Happy coding!** 🚀💻
 
-## Follow me:
+## Follow us:
 
 - **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
-- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavya](https://www.linkedin.com/in/bhavyasriy/)
 - **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

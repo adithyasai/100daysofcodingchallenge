@@ -13,10 +13,10 @@ Welcome to the **100 Days Coding Challenge**, an inclusive journey designed for 
 
 ## How to Participate:
 
-- 📺 Subscribe to the channel [here](#).
+- 📺 Subscribe to the channel [here](https://www.youtube.com/@Code.with.aadi79).
 - 🔔 Hit the bell icon for timely updates.
 - 📲 Follow me on Instagram for extra support and updates.
-- 🤔 If you have any questions or concerns, feel free to drop me a message on [Instagram](#).
+- 🤔 If you have any questions or concerns, feel free to drop me a message on [Instagram](https://www.instagram.com/code.with.aadi/).
 
 ## What's in it for You?
 
@@ -36,6 +36,6 @@ I am **Adithya Saladi**, a Software Consultant at Microsoft, specializing in lar
 
 ## Follow me:
 
-- **Instagram:** [code.with.aadi](#)
-- **Linkedin:** [adithyasaladi](#)
-- **Youtube:** [@code.with.aadi79](#)
+- **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/)
+- **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

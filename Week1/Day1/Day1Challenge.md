@@ -1,6 +1,6 @@
 # Day 1 Challenge
 
-## Day 1 Goal: Understand What GitHub Is and Create a GitHub Account
+## Day 1 Goal: Understanding Github and Create a GitHub Account
 
 Welcome to Day 1 of the 100 Days Coding Challenge! Today's goal is to familiarize yourself with GitHub and create your GitHub account.
 

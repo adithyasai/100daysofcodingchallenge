@@ -39,8 +39,8 @@ Yes, by introducing Git.
 - Managing different versions of a project.
 
 **Branching Strategy:** Consider the diagram below:
-![](https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/branching_strategy.png=250x250)
-
+[](https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/branching_strategy.png=250x250)
+<img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/branching_strategy.png" width="48">
 ### Your Goals for Today:
 
 1. **Explore GitHub:**

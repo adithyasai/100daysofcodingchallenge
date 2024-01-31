@@ -40,7 +40,7 @@ Yes, by introducing Git.
 
 **Branching Strategy:** Consider the diagram below:
 [](https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/branching_strategy.png=250x250)
-<img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/branching_strategy.png" width="48">
+<img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/branching_strategy.png" width="250" height="250">
 ### Your Goals for Today:
 
 1. **Explore GitHub:**

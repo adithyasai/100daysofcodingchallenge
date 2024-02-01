@@ -18,13 +18,13 @@ If you've completed Day 1, you should have your GitHub account ready. If not, ma
 
    - On the GitHub homepage, click the "+ New" button at the top right.
    - Fill in the repository details:
-   <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss1.png" width="250" height="250"></center>
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss1.png" width="400" height="400"></center>
    - **Repository Name:** HelloGithub
    - **Description:** (Optional)
    - **Visibility:** Public
    - **Initialize this repository with a README:** Checked
    - Click on the "[Create repository](https://github.com/new)" button.
-   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss2.png" width="250" height="250"></center>
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss2.png" width="400" height="400"></center>
 
 3. **Create a New File:**
 

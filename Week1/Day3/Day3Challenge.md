@@ -13,6 +13,7 @@ Welcome to Day 3 of the 100 Days Coding Challenge! Today, we'll delve into the f
 2. **Check Git Installation:**
 
    - Open your terminal or command prompt and type `git --version` to ensure Git is properly installed.
+   <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss7.png" width="350" height="250"></center>
 
 3. **Clone the Repository:**
 

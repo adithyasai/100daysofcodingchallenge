@@ -31,16 +31,16 @@ If you've completed Day 1, you should have your GitHub account ready. If not, ma
    - On the repository page, click the "Create new file" button.
    - Name the file as `index.txt`.
    - In the file content area, write: `hello github`.
-   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss3.png" width="400" height="400"></center>
-   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss4.png" width="400" height="400"></center>
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss3.png" width="800" height="400"></center>
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss4.png" width="800" height="400"></center>
    
 
 4. **Commit Changes:**
    - Click on Commit changes on top right corner.
-   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss5.png" width="600" height="400"></center>
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss5.png" width="800" height="400"></center>
    - Provide a meaningful commit message (e.g., "Created index.txt").
    - Click on the "Commit changes" button.
-   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss6.png" width="600" height="400"></center>
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss6.png" width="800" height="400"></center>
 
 
 **What's a Commit?**

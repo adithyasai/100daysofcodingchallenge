@@ -13,12 +13,15 @@ Welcome to Day 3 of the 100 Days Coding Challenge! Today, we'll delve into the f
 2. **Check Git Installation:**
 
    - Open your terminal or command prompt and type `git --version` to ensure Git is properly installed.
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss7.png" width="350" height="250"></center>
 
 3. **Clone the Repository:**
 
    - Go to your GitHub repository created on Day 2.
    - Click on the "Code" button and copy the repository URL.
    - In your terminal or command prompt, navigate to the desired directory and run `git clone <repository_url>` to clone your repository locally.
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss8.png" width="800" height="400"></center>
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss9.png" width="800" height="400"></center>
 
 4. **Add Folder and File on GitHub:**
 
@@ -30,6 +33,7 @@ Welcome to Day 3 of the 100 Days Coding Challenge! Today, we'll delve into the f
 5. **Pull Changes to Local Machine:**
    - In your terminal or command prompt, navigate to the cloned repository.
    - Run `git pull` to fetch and apply the changes from the GitHub repository to your local machine.
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss10.png" width="800" height="400"></center>
 
 ### Explanation of Git Commands:
 
@@ -42,9 +46,6 @@ Welcome to Day 3 of the 100 Days Coding Challenge! Today, we'll delve into the f
   - Fetches changes from a remote repository and integrates them into the current branch.
   - Example: `git pull origin main`.
 
-### Story Time: Syncing the Universe
-
-Imagine your GitHub repository as the central universe, and your local machine as a spaceship exploring that universe. The `clone` command is like creating a spaceship to explore the universe, and the `pull` command is like syncing your spaceship with the changes happening in the universe.
 
 ### Assignment:
 
@@ -64,5 +65,5 @@ Celebrate your Day 3 achievement on social media! Post on Instagram or LinkedIn,
 ## Follow us:
 
 - **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
-- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavya](https://www.linkedin.com/in/bhavyasriy/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
 - **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

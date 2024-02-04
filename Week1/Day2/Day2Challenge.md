@@ -18,26 +18,30 @@ If you've completed Day 1, you should have your GitHub account ready. If not, ma
 
    - On the GitHub homepage, click the "+ New" button at the top right.
    - Fill in the repository details:
-     - **Repository Name:** HelloGitHub
-     - **Description:** (Optional)
-     - **Visibility:** Public
-     - **Initialize this repository with a README:** Checked
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss1.png" width="250" height="250"></center>
+   - **Repository Name:** 100daysofcodingchallenge_<your_name>
+   - **Description:** (Optional)
+   - **Visibility:** Public
+   - **Initialize this repository with a README:** Checked
    - Click on the "[Create repository](https://github.com/new)" button.
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss2.png" width="400" height="400"></center>
 
 3. **Create a New File:**
 
    - On the repository page, click the "Create new file" button.
-   - Name the file as `index.txt`.
-   - In the file content area, write: `hello github`.
+   - Name the file as `Day2 / day2challenge.txt`.
+   - In the file content area, write: `day2 challenge done`.
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss3.png" width="800" height="400"></center>
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss4.png" width="800" height="400"></center>
+   
 
 4. **Commit Changes:**
-   - Scroll down to the "Commit new file" section.
-   - Provide a meaningful commit message (e.g., "Add index.txt with greeting").
+   - Click on Commit changes on top right corner.
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss5.png" width="800" height="400"></center>
+   - Provide a meaningful commit message (e.g., "Completed day2").
    - Click on the "Commit changes" button.
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss6.png" width="800" height="400"></center>
 
-### Story Time: Uploading Changes and Understanding Commits
-
-Imagine you're the captain of a coding spaceship, creating a new planet in the GitHub galaxy. You just created a repository (planet) named HelloGitHub and added a file (inhabitants) named index.txt with the greeting "hello github."
 
 **What's a Commit?**
 In simple terms, a commit is like taking a snapshot of your project at a specific moment. When you commit changes, you're saving the current state of your code. It's a way of saying, "Hey, GitHub, remember this version because it's important!" Each commit has a message that explains what you did, making it easier for you and others to understand the changes you made.
@@ -53,7 +57,7 @@ If you haven't watched the Week 1 Content Video, take a moment to watch it on [Y
 **Share Your Progress (Continued):**
 Celebrate your Day 2 achievement on social media! Post on Instagram or LinkedIn, tagging me with the following content:
 
-"I've completed Day 2 of the 100 Days Coding Challenge! Created a GitHub repository named HelloGitHub and uploaded a file. My GitHub username is <add your yourname here>. #Day2of100dayscodingchallenge #100dayscodingchallenge #codewithaadi"
+"I've completed Day 2 of the 100 Days Coding Challenge! Created a GitHub repository named 100daysofcodingchallenge_<your_name> and uploaded a file. My GitHub username is <add your yourname here>. #Day2of100dayscodingchallenge #100dayscodingchallenge #codewithaadi"
 
 **Great job on completing Day 2! You're on your way to becoming a GitHub master. Happy coding!** 🚀💻
 

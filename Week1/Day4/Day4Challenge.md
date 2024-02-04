@@ -26,7 +26,7 @@ Welcome to Day 4 of the 100 Days Coding Challenge! Today, we'll focus on the cru
    - In the terminal, navigate to the root directory of your cloned repository.
    - Run `git status` to see the changes.
    - Run `git add .` to stage all changes.
-   - Run `git commit -m "Add Day5 folder and day5challenge.txt"` to commit changes with a meaningful message.
+   - Run `git commit -m "Add Day4 folder and day4challenge.txt"` to commit changes with a meaningful message.
 
 5. **Push Changes to GitHub:**
    - Run `git push origin main` to push your changes to the GitHub repository.
@@ -47,9 +47,6 @@ Welcome to Day 4 of the 100 Days Coding Challenge! Today, we'll focus on the cru
   - Uploads local repository content to a remote repository.
   - Example: `git push origin main`.
 
-### Story Time: Sending a Message to the GitHub Universe
-
-Think of each commit and push as sending a message to the GitHub universe. You're letting everyone know what changes you made and why.
 
 ### Assignment:
 
@@ -69,5 +66,5 @@ Celebrate your Day 4 achievement on social media! Post on Instagram or LinkedIn,
 ## Follow us:
 
 - **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
-- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavya](https://www.linkedin.com/in/bhavyasriy/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
 - **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

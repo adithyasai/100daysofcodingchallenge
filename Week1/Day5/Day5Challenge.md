@@ -14,6 +14,9 @@ Imagine you're working on a repository with a group of 4 members. Unfortunately,
 
    - In your terminal or command prompt, navigate to the root directory of your cloned repository.
    - Run `git checkout -b day5` to create and switch to a new branch named `day5`.
+   OR
+   - You can also create a new branch from Github GUI, Click on `New branch`. Refer youtube video to understand the process.
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss11.png" width="800" height="400"></center>
 
 2. **Make Changes in the New Branch:**
 
@@ -33,6 +36,7 @@ Imagine you're working on a repository with a group of 4 members. Unfortunately,
    - Create a new pull request, setting the base branch as `main` and the compare branch as `day5`.
    - Add a meaningful title and description.
    - Create the pull request.
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss12.png" width="800" height="400"></center>
 
 5. **Self-Approve the Pull Request:**
    - As a practice, you can self-approve the pull request.
@@ -71,5 +75,5 @@ Celebrate your Day 5 achievement on social media! Post on Instagram or LinkedIn,
 ## Follow us:
 
 - **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
-- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavya](https://www.linkedin.com/in/bhavyasriy/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
 - **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

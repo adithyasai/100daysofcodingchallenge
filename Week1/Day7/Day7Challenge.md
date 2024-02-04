@@ -15,6 +15,7 @@ Welcome to Day 7 of the 100 Days Coding Challenge! Today, we'll dive into the co
    - Go to your GitHub repository.
    - In the repository settings, navigate to the "Collaborators" section.
    - Add a friend as a collaborator by inviting them via their GitHub username or email.
+   - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss13.png" width="800" height="400"></center>
 
 3. **Collaborate with Your Friend:**
 
@@ -60,5 +61,5 @@ Celebrate your Day 7 collaborative success on social media! Post on Instagram or
 ## Follow us:
 
 - **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
-- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavya](https://www.linkedin.com/in/bhavyasriy/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
 - **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

@@ -46,5 +46,5 @@ Celebrate your Day 6 exploration on social media! Post on Instagram or LinkedIn,
 ## Follow us:
 
 - **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
-- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavya](https://www.linkedin.com/in/bhavyasriy/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
 - **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

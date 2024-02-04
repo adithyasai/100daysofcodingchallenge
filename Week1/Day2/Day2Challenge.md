@@ -19,7 +19,7 @@ If you've completed Day 1, you should have your GitHub account ready. If not, ma
    - On the GitHub homepage, click the "+ New" button at the top right.
    - Fill in the repository details:
    - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss1.png" width="250" height="250"></center>
-   - **Repository Name:** HelloGithub
+   - **Repository Name:** 100daysofcodingchallenge_<your_name>
    - **Description:** (Optional)
    - **Visibility:** Public
    - **Initialize this repository with a README:** Checked
@@ -29,8 +29,8 @@ If you've completed Day 1, you should have your GitHub account ready. If not, ma
 3. **Create a New File:**
 
    - On the repository page, click the "Create new file" button.
-   - Name the file as `index.txt`.
-   - In the file content area, write: `hello github`.
+   - Name the file as `Day2 / day2challenge.txt`.
+   - In the file content area, write: `day2 challenge done`.
    - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss3.png" width="800" height="400"></center>
    - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss4.png" width="800" height="400"></center>
    
@@ -38,7 +38,7 @@ If you've completed Day 1, you should have your GitHub account ready. If not, ma
 4. **Commit Changes:**
    - Click on Commit changes on top right corner.
    - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss5.png" width="800" height="400"></center>
-   - Provide a meaningful commit message (e.g., "Created index.txt").
+   - Provide a meaningful commit message (e.g., "Completed day2").
    - Click on the "Commit changes" button.
    - <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week1_ss6.png" width="800" height="400"></center>
 
@@ -57,7 +57,7 @@ If you haven't watched the Week 1 Content Video, take a moment to watch it on [Y
 **Share Your Progress (Continued):**
 Celebrate your Day 2 achievement on social media! Post on Instagram or LinkedIn, tagging me with the following content:
 
-"I've completed Day 2 of the 100 Days Coding Challenge! Created a GitHub repository named HelloGitHub and uploaded a file. My GitHub username is <add your yourname here>. #Day2of100dayscodingchallenge #100dayscodingchallenge #codewithaadi"
+"I've completed Day 2 of the 100 Days Coding Challenge! Created a GitHub repository named 100daysofcodingchallenge_<your_name> and uploaded a file. My GitHub username is <add your yourname here>. #Day2of100dayscodingchallenge #100dayscodingchallenge #codewithaadi"
 
 **Great job on completing Day 2! You're on your way to becoming a GitHub master. Happy coding!** 🚀💻
 

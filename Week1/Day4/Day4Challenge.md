@@ -13,9 +13,9 @@ Welcome to Day 4 of the 100 Days Coding Challenge! Today, we'll focus on the cru
 
 2. **Add a New Folder and File:**
 
-   - Inside the Visual Studio Code, create a new folder named `Day5`.
-   - Inside the `Day5` folder, add a file named `day5challenge.txt`.
-   - Write the text "Day 5 completed init" inside the file.
+   - Inside the Visual Studio Code, create a new folder named `Day4`.
+   - Inside the `Day4` folder, add a file named `day4challenge.txt`.
+   - Write the text "Day 4 completed" inside the file.
 
 3. **Check Git Installation:**
 

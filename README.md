@@ -28,6 +28,13 @@ Welcome to the **100 Days Coding Challenge**, an inclusive journey designed for 
 
 Even if you're new to programming or have never written a line of code, this challenge is tailored for you. The main objective is to make coding content accessible to anyone and everyone. I'm here to provide support, guidance, and make sure you enjoy the learning process.
 
+## Start your journey:
+
+- Watch the intro video on youtube here - https://youtu.be/6Cvz9qz6WNU?si=-ZWtOrZ_OiVXQt-d
+- Watch Content for week 1 here - https://www.youtube.com/watch?v=QyznE_qFpBI&t=550s
+- Watch Challenge details for week 1 here - https://www.youtube.com/watch?v=QUccY-DQoYc&t=4s
+- For week 1 challenges details go here - https://github.com/adithyasai/100daysofcodingchallenge/tree/main/Week1
+
 ## About Me:
 
 I am **Adithya Saladi**, a Software Consultant at Microsoft, specializing in large-scale software systems. Currently pursuing a part-time Master's degree in Cloud and Distributed Systems from IIT Patna. Outside of work, I enjoy speaking at tech events, traveling, and mentoring new grads.

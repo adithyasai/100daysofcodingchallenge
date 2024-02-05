@@ -12,6 +12,13 @@ Throughout Week 1, you'll embark on a journey to understand the fundamentals of 
 
 Follow the day-wise instructions provided in the Markdown (md) files for each specific day. The content is structured to guide you progressively, ensuring a smooth learning experience. Take it one day at a time, and don't hesitate to explore beyond the challenge content if you feel curious or want to delve deeper into the topics.
 
+## Start your journey:
+
+- Watch the intro video on youtube here - https://youtu.be/6Cvz9qz6WNU?si=-ZWtOrZ_OiVXQt-d
+- Watch Content for week 1 here - https://www.youtube.com/watch?v=QyznE_qFpBI&t=550s
+- Watch Challenge details for week 1 here - https://www.youtube.com/watch?v=QUccY-DQoYc&t=4s
+- For week 1 challenges details go here - https://github.com/adithyasai/100daysofcodingchallenge/tree/main/Week1
+
 ### Challenge Completion:
 
 Consistency is key! By the end of Week 1, you should feel confident in your ability to use Git and GitHub effectively. The challenge is designed to equip you with practical skills that you can apply in real-world coding scenarios.

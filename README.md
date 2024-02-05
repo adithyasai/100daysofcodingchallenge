@@ -37,5 +37,5 @@ I am **Adithya Saladi**, a Software Consultant at Microsoft, specializing in lar
 ## Follow me:
 
 - **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
-- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/) , [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
 - **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

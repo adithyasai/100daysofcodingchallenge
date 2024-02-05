@@ -60,12 +60,16 @@ Yes, by introducing Git.
 
 GitHub simplifies collaboration, allows for easy tracking of changes, and provides a platform for showcasing your coding projects. As you progress through this challenge, you'll harness the power of GitHub to share your code, contribute to repositories, and engage with the global coding community.
 
+## Start your journey:
+
+- Watch the intro video on youtube here - https://youtu.be/6Cvz9qz6WNU?si=-ZWtOrZ_OiVXQt-d
+- Watch Content for week 1 here - https://www.youtube.com/watch?v=QyznE_qFpBI&t=550s
+- Watch Challenge details for week 1 here - https://www.youtube.com/watch?v=QUccY-DQoYc&t=4s
+- For week 1 challenges details go here - https://github.com/adithyasai/100daysofcodingchallenge/tree/main/Week1
+
 ### Next Steps:
 
 By now, you should understand what GitHub is, why it's essential for coding projects, and you should have your GitHub account. If you're already aware and have an account, congratulations! Mark today as completed.
-
-**Watch the Week 1 Content Video:**
-Go ahead and watch the Week 1 content video if you haven't already on [YouTube](https://www.youtube.com/watch?v=6Cvz9qz6WNU).
 
 **Share Your Progress:**
 Take a moment to celebrate your achievement! Share your Day 1 completion on social media. Post on Instagram or LinkedIn, tagging me with the following content:

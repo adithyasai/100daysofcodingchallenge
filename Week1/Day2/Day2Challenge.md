@@ -52,14 +52,20 @@ Share your GitHub adventure! Post your thoughts or questions in the chat comment
 
 **Next Steps (Continued):**
 
-If you haven't watched the Week 1 Content Video, take a moment to watch it on [YouTube](https://www.youtube.com/watch?v=6Cvz9qz6WNU).
-
 **Share Your Progress (Continued):**
 Celebrate your Day 2 achievement on social media! Post on Instagram or LinkedIn, tagging me with the following content:
 
 "I've completed Day 2 of the 100 Days Coding Challenge! Created a GitHub repository named 100daysofcodingchallenge_<your_name> and uploaded a file. My GitHub username is <add your yourname here>. #Day2of100dayscodingchallenge #100dayscodingchallenge #codewithaadi"
 
 **Great job on completing Day 2! You're on your way to becoming a GitHub master. Happy coding!** 🚀💻
+
+## Start your journey:
+
+- Watch the intro video on youtube here - https://youtu.be/6Cvz9qz6WNU?si=-ZWtOrZ_OiVXQt-d
+- Watch Content for week 1 here - https://www.youtube.com/watch?v=QyznE_qFpBI&t=550s
+- Watch Challenge details for week 1 here - https://www.youtube.com/watch?v=QUccY-DQoYc&t=4s
+- For week 1 challenges details go here - https://github.com/adithyasai/100daysofcodingchallenge/tree/main/Week1
+
 
 ## Follow us:
 

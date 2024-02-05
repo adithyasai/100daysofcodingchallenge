@@ -61,9 +61,12 @@ Think of branches as alternate timelines in your coding journey. Each branch is 
 
 Share your branching adventure! Post your thoughts or questions in the chat comments. Let's learn and grow together.
 
-**Next Steps (Continued):**
+## Start your journey:
 
-If you haven't watched the Week 1 Content Video, take a moment to watch it on [YouTube](https://www.youtube.com/watch?v=6Cvz9qz6WNU).
+- Watch the intro video on youtube here - https://youtu.be/6Cvz9qz6WNU?si=-ZWtOrZ_OiVXQt-d
+- Watch Content for week 1 here - https://www.youtube.com/watch?v=QyznE_qFpBI&t=550s
+- Watch Challenge details for week 1 here - https://www.youtube.com/watch?v=QUccY-DQoYc&t=4s
+- For week 1 challenges details go here - https://github.com/adithyasai/100daysofcodingchallenge/tree/main/Week1
 
 **Share Your Progress (Continued):**
 Celebrate your Day 5 achievement on social media! Post on Instagram or LinkedIn, tagging me with the following content:

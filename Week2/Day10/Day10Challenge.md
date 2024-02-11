@@ -40,7 +40,7 @@ Attributes provide extra information about HTML elements:
 Congratulations on completing Day 10!
 
 **Share Your Progress (Continued):**
-Celebrate your Day 9 collaborative success on social media! Post on Instagram or LinkedIn, tagging me with the following content:
+Celebrate your Day 10 collaborative success on social media! Post on Instagram or LinkedIn, tagging me with the following content:
 
 "I've completed Day 10 of the 100 Days Coding Challenge! Today I learnt about semantics, header, footer, attributes. #Day10of100dayscodingchallenge #100dayscodingchallenge #codewithaadi"
 

@@ -47,7 +47,7 @@ The `<!DOCTYPE html>` declaration defines the HTML version to ensure the browser
 ### Assignment:
 ## Building a Restaurant Menu Website
 This week, we'll apply what we learn each day towards building a simple website for a restaurant menu. Using today's topics, we can start by setting up the basic structure of our menu webpage, including the document type, head, and body sections. We can also use headings to denote different sections of the menu (e.g., Appetizers, Main Courses, Desserts) and paragraphs or lists to detail the dishes available. Here's a basic example to get us started:
-- <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week2_ss1.png" width="800" height="400"></center>
+- <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week2/images/week2_ss1.png" width="800" height="400"></center>
 
 **Share Your Progress (Continued):**
 Celebrate your Day 8 collaborative success on social media! Post on Instagram or LinkedIn, tagging me with the following content:

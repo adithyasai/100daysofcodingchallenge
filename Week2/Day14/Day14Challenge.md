@@ -33,7 +33,8 @@ Take some time to refine your personal portfolio website. Consider making design
 ## Congratulations!
 You've successfully refined and deployed your portfolio to the web. Keep updating it as you progress in your web development journey.
 
-## Connect with us
-**Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
-**LinkedIn:** [Adithya Saladi](https://www.linkedin.com/in/adithyasaladi/), [Bhavya Sri Y](https://www.linkedin.com/in/bhavyasriy/)
-**YouTube:** [Code with Aadi](https://www.youtube.com/@Code.with.aadi79)
+## Follow us:
+
+- **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
+- **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

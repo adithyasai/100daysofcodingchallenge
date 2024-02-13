@@ -54,6 +54,8 @@ The box model consists of margins, borders, padding, and the content area.
 - Apply class selector `.menu-section` for menu sections with consistent styling.
 - Implement inline CSS for highlighting special offers.
 
+- <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week2/images/week2_ss8.png" width="800" height="400"></center>
+
 ### Styling with CSS Selectors and Box Model
 Combine your understanding of selectors and the box model to style the restaurant menu:
 
@@ -82,6 +84,8 @@ Combine your understanding of selectors and the box model to style the restauran
 
 Congratulations on completing Day 12! Experiment with these styles to refine your website's design.
 
-**Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
-**LinkedIn:** [Adithya Saladi](https://www.linkedin.com/in/adithyasaladi/), [Bhavya Sri Y](https://www.linkedin.com/in/bhavyasriy/)
-**YouTube:** [Code with Aadi](https://www.youtube.com/@Code.with.aadi79)
+## Follow us:
+
+- **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
+- **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

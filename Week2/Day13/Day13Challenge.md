@@ -42,6 +42,8 @@ Demonstrate your ability to create a structured and styled web page using HTML a
 
 This assessment challenges your HTML and CSS skills and encourages creativity. Good luck!
 
-**Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
-**LinkedIn:** [Adithya Saladi](https://www.linkedin.com/in/adithyasaladi/), [Bhavya Sri Y](https://www.linkedin.com/in/bhavyasriy/)
-**YouTube:** [Code with Aadi](https://www.youtube.com/@Code.with.aadi79)
+## Follow us:
+
+- **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
+- **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

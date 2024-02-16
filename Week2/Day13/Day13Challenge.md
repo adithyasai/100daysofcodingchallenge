@@ -35,13 +35,15 @@ Demonstrate your ability to create a structured and styled web page using HTML a
 ### Submission Guidelines
 - Host the project on a platform like GitHub Pages or CodePen, and provide the source code link.
 - Include a README in the repository with a project description.
-- <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week2/images/week2_ss7.png" width="800" height="400"></center>
+- <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week2/images/week2_ss7.jpeg" width="800" height="400"></center>
 ### Evaluation Criteria
 - Adherence to requirements, code cleanliness, responsiveness, and visual appeal.
 - Creative use of CSS for styling and animations (if applicable).
 
 This assessment challenges your HTML and CSS skills and encourages creativity. Good luck!
 
-**Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
-**LinkedIn:** [Adithya Saladi](https://www.linkedin.com/in/adithyasaladi/), [Bhavya Sri Y](https://www.linkedin.com/in/bhavyasriy/)
-**YouTube:** [Code with Aadi](https://www.youtube.com/@Code.with.aadi79)
+## Follow us:
+
+- **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
+- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
+- **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

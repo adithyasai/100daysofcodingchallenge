@@ -60,6 +60,12 @@
             <li>Bruschetta</li>
         </ul>
     <section>
+        <h3>Main Courses</h3>
+        <ol> <!--Ordered list, Observe the difference between ordered/unordered list-->
+            <li>Biryani</li>
+            <li>Butter Chicken</li>
+            <li>Korma</li>
+        </ol>
     <h3>Desserts</h3>
     <ol>
         <li style="color: red;">Cake</li> <!-- Styled with inline CSS -->
@@ -77,7 +83,6 @@
         <p>Contact us</p>
     </footer>
 </body>
-
 </html>
 ```
 ### styles.html

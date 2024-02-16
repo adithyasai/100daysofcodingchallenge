@@ -35,7 +35,7 @@ Demonstrate your ability to create a structured and styled web page using HTML a
 ### Submission Guidelines
 - Host the project on a platform like GitHub Pages or CodePen, and provide the source code link.
 - Include a README in the repository with a project description.
-- <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week2/images/week2_ss7.png" width="800" height="400"></center>
+- <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week2/images/week2_ss7.jpeg" width="800" height="400"></center>
 ### Evaluation Criteria
 - Adherence to requirements, code cleanliness, responsiveness, and visual appeal.
 - Creative use of CSS for styling and animations (if applicable).

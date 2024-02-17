@@ -229,9 +229,9 @@ In this assignment, you'll apply OOP principles to simulate a real-life banking 
 
 ### LinkedIn Post for Achievement
 
-"Day 5 of my coding adventure and I've just unlocked the power of OOP in JavaScript! 🚀 From encapsulation to polymorphism, I've crafted a simple bank system that's both secure and efficient. #Day5JavaScript #100DaysOfCoding #OOP #JavaScriptJourney
+"Day 19 of my coding adventure and I've just unlocked the power of OOP in JavaScript! 🚀 From encapsulation to polymorphism, I've crafted a simple bank system that's both secure and efficient. #Day19 #100DaysOfCoding #OOP #JavaScriptJourney #codewithaadi
 
-**Follow my coding adventure and let's grow together!**
+## Follow us:
 - **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
-- **LinkedIn:** [Follow me](https://www.linkedin.com/in/your-linkedin-profile/)
-- **YouTube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)"
+- **LinkedIn:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
+- **YouTube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

@@ -195,7 +195,7 @@ Managing a to-do list where you can add or remove tasks.
 4. Every alternate day, you revise the previous week's concepts.
 5. Print the tasks for the week (use any loop)
 
-<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week3_ss2.png" width="800" height="400"></center>
+<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/main/images/week3_ss2.png" width="800" height="400"></center>
 
 ### LinkedIn Post for Achievement
 Day 16/100 - Another productive day in my coding journey! 🚀 I've just leveled up my JavaScript skills by mastering arrays and control flow with loops and conditional statements.  #Day15ofJavaScript #100DaysofCodingChallenge #codewithaadi

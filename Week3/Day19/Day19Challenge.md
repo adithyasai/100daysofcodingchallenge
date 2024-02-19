@@ -68,7 +68,7 @@ Create a simple library system where you can add books, list all books, and mark
 2. Create methods to add a book, list all books, and mark a book as read.
 3. Store all book objects in an array within a `Library` object.
 
-<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week3_ss7.png" width="800" height="400"></center>
+<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/main/images/week3_ss7.png" width="800" height="400"></center>
 
 **Example Code:**
 
@@ -223,7 +223,7 @@ Develop a simple banking system that utilizes encapsulation, inheritance, and ab
 3. Create a `SavingsAccount` class that inherits from `BankAccount` and includes an `interestRate` property.
 4. Implement polymorphism by overriding the `withdraw` method for the `SavingsAccount` to include a withdrawal limit.
 
-<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week3_ss8.png" width="800" height="400"></center>
+<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/main/images/week3_ss8.png" width="800" height="400"></center>
 
 In this assignment, you'll apply OOP principles to simulate a real-life banking system, organizing and managing data effectively and securely.
 

@@ -31,7 +31,7 @@ To see this in action:
 - Type the code above into the console and press Enter.
 - You should see "Hello, world!" printed in the console.
 
-<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week3_ss1.png" width="800" height="400"></center>
+<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/main/images/week3_ss1.png" width="800" height="400"></center>
 
 ### Real-Life Example
 JavaScript powers interactive elements on websites, like greeting pop-ups and responsive buttons, making the web experience richer.

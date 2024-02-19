@@ -15,7 +15,7 @@ Build a simple contact management system in JavaScript that allows the user to a
 
 5. **Use ES6 Classes**: Define a `Contact` class with a constructor and methods for setting and getting contact details.
 
-<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week3_ss9.png" width="800" height="400"></center>
+<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/main/images/week3_ss9.png" width="800" height="400"></center>
 
 #### Additional assessment (optional):
 Extend the system with the following features:

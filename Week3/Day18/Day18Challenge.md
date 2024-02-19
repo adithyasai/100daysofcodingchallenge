@@ -73,7 +73,7 @@ Create a simple personal finance tracker that allows you to track income and exp
 2. Implement functions to add income, add an expense, and calculate the balance using these closures.
 3. Use arrow functions for simple calculations.
 
-<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week3_ss6.png" width="800" height="400"></center>
+<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/main/images/week3_ss6.png" width="800" height="400"></center>
 
 In this project, you'll apply closures to keep track of income and expenses, providing a neat way to manage personal finances without exposing the actual income and expense variables.
 

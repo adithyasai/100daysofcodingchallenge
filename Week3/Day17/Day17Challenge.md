@@ -76,9 +76,9 @@ Create a simple calculator that can add, subtract, multiply, and divide two numb
 2. Declare the functions for add, subtract, multiply and divide
 3. Based on the operation, return the output of the result
 
-<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week3_ss3.png" width="800" height="400"></center>
+<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/main/images/week3_ss3.png" width="800" height="400"></center>
 
-<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week3_ss4.png" width="800" height="400"></center>
+<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/main/images/week3_ss4.png" width="800" height="400"></center>
 
 ### Assignment2: Simple Task Management
 
@@ -89,7 +89,7 @@ Create a simple project management tool. It will allow you to add tasks, complet
 1. Create functions to add a task and display tasks.
 2. Use an array to store tasks.
 
-<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week1/images/week3_ss5.png" width="800" height="400"></center>
+<center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/main/images/week3_ss5.png" width="800" height="400"></center>
 
 
 ### LinkedIn Post for Achievement

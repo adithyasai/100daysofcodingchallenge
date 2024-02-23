@@ -83,3 +83,5 @@ Take a moment to celebrate your achievement! Share your Day 1 completion on soci
 - **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
 - **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavya](https://www.linkedin.com/in/bhavyasriy/)
 - **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)
+
+## Thank you

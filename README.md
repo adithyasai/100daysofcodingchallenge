@@ -47,4 +47,4 @@ I am **Adithya Saladi**, a Software Consultant at Microsoft, specializing in lar
 - **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/) , [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
 - **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)
 
-## Thank you
+## Thank you and all the best

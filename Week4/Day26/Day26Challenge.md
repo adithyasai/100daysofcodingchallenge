@@ -1,11 +1,12 @@
-Certainly! Here's the content for Day 26 in Markdown format:
 
-````markdown
+
 # Day 26: Destructuring Assignment, Spread and Rest Operators, Template Literals, Enhanced Object Literals
 
 ## Destructuring Assignment
 
 Destructuring assignment is a convenient way to extract values from arrays or objects and assign them to variables in a concise manner.
+
+````markdown
 
 ### Destructuring Arrays
 

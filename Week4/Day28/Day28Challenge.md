@@ -1,4 +1,3 @@
-````markdown
 # Day 28: Final Project - Build a JavaScript Web Application or Game
 
 Congratulations on reaching the final day of our JavaScript series! Today, you have the opportunity to apply your knowledge and skills by building a small web application or game using JavaScript. This assignment is designed to integrate various concepts we've covered throughout the series.
@@ -34,7 +33,6 @@ my-javascript-project/
     |-- images/
     |-- other_assets/
 ```
-````
 
 ### Game Hint:
 

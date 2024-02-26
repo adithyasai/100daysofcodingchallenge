@@ -144,7 +144,3 @@ function initGame() {
 ```
 
 Remember, this is just one example, and you're encouraged to come up with your unique game idea. Please avoid duplicating the exact game provided in the example. Have fun building your JavaScript project! 🎉
-
-```
-
-```

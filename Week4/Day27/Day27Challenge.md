@@ -1,6 +1,5 @@
 Absolutely! Here's the modified content based on your request:
 
-````markdown
 # Day 27: Introduction to JavaScript Frameworks and Libraries
 
 Today marks the beginning of our exploration into the world of JavaScript frameworks and libraries. We won't be delving deep into any particular framework today, but rather, we aim to help you understand the concepts behind these tools and their significance in web development.
@@ -37,7 +36,6 @@ npx create-react-app my-react-app
 cd my-react-app
 npm start
 ```
-````
 
 3. Explore the code in the `src` folder to understand the basic structure of a React app.
 

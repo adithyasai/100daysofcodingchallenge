@@ -1,5 +1,3 @@
-Certainly! I've provided a simple example of a complete memory card game in the hint along with the full code for the game below:
-
 ````markdown
 # Day 28: Final Project - Build a JavaScript Web Application or Game
 

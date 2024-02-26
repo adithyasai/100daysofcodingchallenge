@@ -1,12 +1,11 @@
-Certainly! Here's the content for Day 25 in Markdown format:
 
-````markdown
+
 # Day 25: Async/Await, Fetch API for AJAX, and Error Handling in Asynchronous Code
 
 ## Async/Await
 
 Async/Await is a modern syntax for handling asynchronous operations in JavaScript. It provides a more concise and readable way to write asynchronous code, making it resemble synchronous code.
-
+````markdown
 ### Using Async/Await with Functions
 
 ```javascript

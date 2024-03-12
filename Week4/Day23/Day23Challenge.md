@@ -1,5 +1,3 @@
-
-
 # Day 23: Advanced DOM Manipulation, Event Delegation, Practical Examples, and Mini Projects in JavaScript
 
 ## Advanced DOM Manipulation
@@ -120,7 +118,3 @@ Feel free to use these concepts in your projects and explore the capabilities of
 - **LinkedIn:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
 - **YouTube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)
 
-```
-
-Feel free to adjust the content as needed for your context!
-```

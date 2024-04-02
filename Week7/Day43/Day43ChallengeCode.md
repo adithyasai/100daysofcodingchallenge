@@ -1,4 +1,3 @@
-Certainly! Here's a detailed breakdown for the assignment on sketching out a simple database for an online store. This example will cover three tables—Customers, Orders, and Products—and explain the columns within each and how they interrelate.
 
 ### Customers Table
 This table will store information about the customers who purchase products from the online store.

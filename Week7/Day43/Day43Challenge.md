@@ -20,7 +20,7 @@ There are primarily two types of databases:
 
 - **Columns**: A column in a database table is like a column in a spreadsheet. Each column holds a certain kind of data about all the items in the table, such as the name or age of customers.
 
-- <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/main/images/week7_ss1.jpeg" width="800" height="400"></center>
+- <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/main/images/week7_ss1" width="800" height="400"></center>
 
 ### Real-Life Example: Online Store
 
